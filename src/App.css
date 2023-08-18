@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Titulo{
+  color:#007bff
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.alert {
+  color: red
+}
+
+.Boton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 15px;
+  margin-top: 35px ;
+  margin-left: 20px;
+  
+}
+
+.form-label-nombre{
+  padding: 4px;
+}
+
+.form-label-cancion{
+  padding: 5px;
+}
+
